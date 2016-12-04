@@ -1,0 +1,41 @@
+﻿<div class="container-fluid">
+    <div class="row">
+        <div class="col-lg-12 col-md-12">
+            <div class="card">
+                <div class="header">
+                    <h4 class="title">&nbsp;&nbsp; Angular 2 Template in VS</h4>
+                </div>
+                <div class="content">
+                    <div class="row">
+                        <div class="col-md-2"></div>
+                        <div class="col-md-8">
+                            <div class="form-group">
+                                <label></label>
+                                <input type="text" class="form-control border-input" name="txtTest" id="txtTest" value=""
+                                       placeholder="Two-way data binding - Type here" [(ngModel)]="temp">
+                            </div>
+                        </div>
+                        <div class="col-md-2"></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-2"></div>
+                        <div class="col-md-8">
+                            <div class="form-group">
+                                <label>Value in Textbox</label>
+                                {{temp}}
+                            </div>
+                        </div>
+                        <div class="col-md-2"></div>
+                    </div>
+                    <br />
+                    <div class="text-center">
+                        <button class="btn btn-info btn-fill btn-wd" name="btnClick" id="btnClick" (click)="btnClickedEvent()">
+                            Click This Button !!!
+                        </button>
+                    </div>
+                    <br />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Angular2-Template-for-MVC-and-WebAPI</id>
+    <version>1.0</version>
+    <authors>Muhammad Hassan Tariq</authors>
+    <owners>Muhammad Hassan Tariq</owners>
+    <licenseUrl>https://hassantariqblog.wordpress.com/2016/10/08/angular2-using-angular2-with-typescript-for-asp-net-mvc-in-visual-studio-2015/</licenseUrl>
+    <projectUrl>https://github.com/m-hassan-tariq/Angular2UsingASPdotNetMVC</projectUrl>
+    <iconUrl>https://cdn4.iconfinder.com/data/icons/logos-3/504/angularjs-512.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <summary>Package will help you to integrate Angular2 JS framework into ASP.NET MVC or WebAPI applications. Package includes ASP.NET MVC compatible tsconfig.json, typings.json, systemjs.config.js, package.json files</summary>
+	<description>Package includes client side JS libraries reference and configuration for Angular2, @angular/common, @angular/compiler, @angular/core, @angular/forms, @angular/http, @angular/platform-browser, core-js, lodash, rxjs, systemjs, zone.js. Package also contains sample SPA template implemented according to Angular2 Best Design Guidelines. </description>
+    <tags>typescript typings angular2 angularjs systemjs zone.js rxjs lodash core-js http compiler core asp.net mvc webapi .net</tags>
+  </metadata>
+</package>
+
