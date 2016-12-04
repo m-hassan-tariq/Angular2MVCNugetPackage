@@ -63,3 +63,5 @@ Package includes ASP.NET MVC compatible tsconfig.json, typings.json, systemjs.co
             });
         </script>
 
+
+![screenshot_29](https://cloud.githubusercontent.com/assets/10474169/20869337/69ff98fe-ba25-11e6-8f00-df75a91b7d48.png)
